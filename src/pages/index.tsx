@@ -1,6 +1,6 @@
 //import { Head } from 'next/head';
 
-import { Button, Flex, FormControl, FormLabel, Stack } from '@chakra-ui/react';
+import { Button, Flex, FormControl, Stack } from '@chakra-ui/react';
 import { Input } from '../components/Form/Input';
 
 export default function Home() {
